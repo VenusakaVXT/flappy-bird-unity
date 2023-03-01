@@ -15,3 +15,5 @@ Press the space button to move the bird up and down over the obstacles to accumu
  ![image](https://user-images.githubusercontent.com/125566811/219922593-0a848abd-18d6-4cfd-b0f8-04add0918ae9.png)
 
 Press the spacebar or after 5s the game reloads.
+
+And here is the finished product: https://github.com/VenusakaVXT/flappy-bird-pc
